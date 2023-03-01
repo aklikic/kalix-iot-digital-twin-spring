@@ -1,0 +1,6 @@
+/.idea/
+/kalix-iot-digital-twin-spring.iml
+/target/
+dependency-reduced-pom.xml
+confluent-kafka.properties
+kafka_publish_curl.txt

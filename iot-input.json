@@ -1,0 +1,20 @@
+{
+
+  "headers":[
+    {"name":"ce-source", "value":"bWFudWFs"},
+    {"name":"ce-datacontenttype", "value":"YXBwbGljYXRpb24vanNvbg=="},
+    {"name":"ce-specversion", "value":"MS4w"},
+    {"name":"ce-type", "value":"TWV0cmljQWRkTWVzc2FnZQ=="},
+    {"name":"ce-id", "value":"MjIyMjY="},
+    {"name":"ce-time", "value":"MjAyMy0wMi0xNlQyMDowMDowMC4wMDBa"},
+    {"name":"Content-Type", "value":"YXBwbGljYXRpb24vanNvbg=="}
+  ],
+  "value":{
+    "type":"JSON",
+    "data":{
+      "dtId": "1",
+      "metricValue": "11"
+    }
+
+  }
+}
